@@ -1,0 +1,29 @@
+_repo: The-Operatic-Problem_34302
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Galloway, William Johnson
+    alias: Galloway, W. Johnson (William Johnson)
+    birthdate: 1866
+    deathdate: 1931
+    gutenberg_agent_id: '36947'
+    url: http://www.gutenberg.org/2009/agents/36947
+description: ''
+gutenberg_issued: '2010-11-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '34302'
+  lccn: 09002120
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'ML'
+- !lcsh 'Opera'
+- !lcsh 'Opera -- England'
+title: The Operatic Problem
+url: http://www.gutenberg.org/ebooks/34302
